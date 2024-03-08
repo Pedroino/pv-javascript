@@ -82,3 +82,9 @@
       display: none;
 
    }
+
+   .aba.conteudo-titulo-principal{
+     text-aligh: center;
+     color: var(--verde);
+     text-transform:uppercase
+   }
